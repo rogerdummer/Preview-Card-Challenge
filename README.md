@@ -29,9 +29,9 @@ Users should be able to:
 
 I've started the development using the Mobile First concept.
 The layout was divided by 3 parts: Card image, Card main text, and Card list.
-In the Card image I used the tag <picture> and CSS Opacity Filter.
-To the Card main text I just added the text and formatted it. I used <h1> tag for the title and <p> tag for the main text.
-In Card list i used the tags <ul> and <li>.
+In the Card image I used the tag picture and CSS Opacity Filter.
+To the Card main text I just added the text and formatted it. I used h1 tag for the title and p tag for the main text.
+In Card list i used the tags ul and li.
 
 
 ### Built with
